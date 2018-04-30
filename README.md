@@ -15,7 +15,7 @@ These instructions will explains how to set up the project on your local machine
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them.
 
 ```
 [Java Development Kit 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Initial development was completed on JDK 1.8U162
@@ -25,7 +25,7 @@ Terminal/Shell access (Linux terminal, OSX terminal, Windows PowerShell)
 
 ### Installing
 
-To get Make Change up and running you need to copy the source code from the "MakeChangeProject"
+To get Make Change up and running you need to copy the source code from the "MakeChangeProject".
 
 To download the source code navigate to the link below:
 
@@ -39,7 +39,7 @@ Clone the Make Change repository following the instructions "Cloning a repositor
 [Cloning a repository](https://help.github.com/articles/cloning-a-repository/)
 ```
 
-Once you have successfully cloned the repository to your local machine open up a terminal/shell and run the following commands to compile and run the program
+Once you have successfully cloned the repository to your local machine open up a terminal/shell and run the following commands to compile and run the program.
 
 ```
 # Navigate to the src/ directory where you cloned the repository
@@ -62,13 +62,6 @@ You must rerun the "java java com/skilldistillery/makechange/MakeChangeApp" comm
 
 Perhaps version 1.5 or 2.0 will be undertaken and add a while condition check to keep it going until you choose to exit. Ideas are on the whiteboard. 
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ### Skill Distillery 
 
@@ -93,5 +86,5 @@ If you're interested in learning development and coding take a look at
 ## Acknowledgments
 
 * Hat tip to [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) for providing this neat template and HOWTO!
-* 
+ 
 
