@@ -62,7 +62,7 @@ public class MakeChangeApp {
 		
 	}
 
-	public static void registerHeader() {
+	private static void registerHeader() {
 		// create a register header
 		System.out.println("*****************************************");
 		System.out.println("**   Cashbot Register - version 1.0    **");
@@ -71,7 +71,7 @@ public class MakeChangeApp {
 
 	}
 
-	public static void registerFooter() {
+	private static void registerFooter() {
 		System.out.println();
 		System.out.println("*****************************************");
 		System.out.println("**      Thank you!! Come Again!!       **");
